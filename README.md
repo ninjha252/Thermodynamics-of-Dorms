@@ -1,6 +1,6 @@
 # Thermodynamics-of-Dorms
 
-#### Co-Authors: Anjali Madangarli, Nitin Jha, and Spandan Pandya
+#### Authors: Anjali Madangarli, Nitin Jha, and Spandan Pandya
 
 #### Academic Advisor: Dr. Vikram Vyas
 
